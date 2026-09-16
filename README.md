@@ -20,9 +20,9 @@
 ### 🚀 Sobre Mí
 
 * 🎓 **Formación:** Egresado de **TECSUP** en Diseño y Desarrollo de Software.
-* 💼 **Experiencia:** Desarrollo de módulos ERP corporativos, despliegues e infraestructura Linux VPS (Nginx)[cite: 1] y programación asistida por IA[cite: 1].
-* 📱 **Especialidad Móvil:** Desarrollo nativo y multiplataforma con **iOS (Swift)**, **Android (Kotlin/Java)** y **Flutter**[cite: 1].
-* 🤖 **Innovación:** Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** para gestión documental corporativa[cite: 1].
+* 💼 **Experiencia:** Desarrollo de módulos ERP corporativos, despliegues e infraestructura Linux VPS (Nginx) y programación asistida por IA.
+* 📱 **Especialidad Móvil:** Desarrollo nativo y multiplataforma con **iOS (Swift)**, **Android (Kotlin/Java)** y **Flutter**.
+* 🤖 **Innovación:** Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** para gestión documental corporativa.
 
 ---
 
@@ -54,6 +54,6 @@
 ### 📊 Análisis de Actividad
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddy2506&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy2506&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eddy2506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy2506&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
