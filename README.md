@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E65F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+Specialist+(Flutter+%7C+iOS+%7C+Android);DevOps+%26+Linux+VPS+Administrator;AI+Integration+%26+RAG+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E65F3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+Specialist+(Flutter+%7C+iOS+%7C+Android);DevOps+%26+Linux+VPS+Administrator;AI+Integration+%26+RAG+Engineer" alt="Typing SVG" />
 
   <p align="center">
     <b>Transformando ideas complejas en software escalable, apps móviles y soluciones asistidas por IA.</b>
@@ -19,10 +19,10 @@
 
 ### 🚀 Sobre Mí
 
-* 🎓 **Formación:** Egresado de **TECSUP** en Diseño y Desarrollo de Software.
-* 💼 **Experiencia:** Desarrollo de módulos ERP corporativos, despliegues e infraestructura Linux VPS (Nginx) y programación asistida por IA.
-* 📱 **Especialidad Móvil:** Desarrollo nativo y multiplataforma con **iOS (Swift)**, **Android (Kotlin/Java)** y **Flutter**.
-* 🤖 **Innovación:** Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** para gestión documental corporativa.
+* 🎓 **Formación:** Egresado de **TECSUP** en Diseño y Desarrollo de Software[cite: 1].
+* 💼 **Experiencia:** Desarrollo de módulos ERP corporativos[cite: 1], despliegues e infraestructura Linux VPS (Nginx)[cite: 1] y programación asistida por IA[cite: 1].
+* 📱 **Especialidad Móvil:** Desarrollo nativo y multiplataforma con **iOS (Swift)**, **Android (Kotlin/Java)** y **Flutter**[cite: 1].
+* 🤖 **Innovación:** Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** para gestión documental corporativa[cite: 1].
 
 ---
 
