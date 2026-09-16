@@ -21,11 +21,11 @@
 
 ### 👨‍💻 Sobre Mí
 
-* 🎓 **Formación:** Egresado en **Diseño y Desarrollo de Software** por **TECSUP**[cite: 1].
-* 💼 **Experiencia Full Stack:** Desarrollo e integración de módulos para sistemas **ERP corporativos**[cite: 1].
-* 📱 **Especialista Mobile:** Creación de aplicaciones nativas y multiplataforma en **iOS (Swift)**, **Android** y **Flutter**[cite: 1].
-* 🌐 **DevOps & VPS:** Gestión y despliegue continuo en servidores **Linux (VPS)** con Nginx y Git[cite: 1].
-* 🤖 **IA Aplicada:** Implementación de arquitecturas **RAG** para gestión documental corporativa y optimización del desarrollo asistido por IA[cite: 1].
+* 🎓 **Formación:** Egresado en **Diseño y Desarrollo de Software** por **TECSUP**.
+* 💼 **Experiencia Full Stack:** Desarrollo e integración de módulos para sistemas **ERP corporativos**.
+* 📱 **Especialista Mobile:** Creación de aplicaciones nativas y multiplataforma en **iOS (Swift)**, **Android** y **Flutter**.
+* 🌐 **DevOps & VPS:** Gestión y despliegue continuo en servidores **Linux (VPS)** con Nginx y Git.
+* 🤖 **IA Aplicada:** Implementación de arquitecturas **RAG** para gestión documental corporativa y optimización del desarrollo asistido por IA.
 
 ---
 
