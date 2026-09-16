@@ -40,7 +40,28 @@
 
 ---
 
-<div align="center">
-  <p>👁️ <b>Visitas al perfil:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=Eddy2506&color=2e65f3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+### ⭐ Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Sistema RAG para Gestión del Conocimiento</h4>
+      <p>Plataforma de Inteligencia Artificial que indexa documentación corporativa interna para responder consultas precisas basadas en archivos de la empresa.</p>
+      <p><b>Tech:</b> Python, RAG, AI Agents, Vector DB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Módulos ERP & Nexocondominio App</h4>
+      <p>Desarrollo de módulos móviles y web integrados a sistemas ERP corporativos para optimizar la gestión y comunicación en tiempo real.</p>
+      <p><b>Tech:</b> Flutter, Java, .NET, Nginx, VPS</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 Enfoque Actual & Intereses
+
+- 🔭 Actualmente trabajando en **arquitecturas escalables de microservicios y soluciones móviles nativas**.
+- 🧠 Profundizando en **agentes de Inteligencia Artificial aplicados a la automatización de software**.
+- 💬 Pregúntame sobre **Flutter, Swift, Java, despliegues en Linux VPS o integración de RAG**.
+- ⚡ **Dato curioso:** Apasionado por la optimización de código y el aprendizaje autónomo constante[cite: 1].
